@@ -77,7 +77,7 @@ This project is a back-end API service built with **Go** that provides user and 
 
 You can test the API using **curl** or **Postman**.
 
-Example for fetching a user by ID:
+Example usages:
 ```bash
 curl http://localhost:8080/user/1
 curl http://localhost:8080/user/1/actions/count
