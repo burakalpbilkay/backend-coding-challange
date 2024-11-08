@@ -68,6 +68,7 @@ This project is a back-end API service built with **Go** that provides user and 
 
 4. Run the API server:
    ```bash
+   cd cmd/app
    go run main.go
    ```
 
